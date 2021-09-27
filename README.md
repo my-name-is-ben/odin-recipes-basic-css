@@ -17,6 +17,7 @@ The goal for the this project is not to make the website look good per se, but t
 In this project I hope to get a better understanding of:
 	
 -using CSS to modify HTML elements
+
 -learning rule priority when collisions occur
 	
 >Somewhat off-topic, but I would also like to learn how to make a cleaner README.md so that the github page is more legible. I will be including several examples below in order to practice and also perhaps as a reference for the future.
